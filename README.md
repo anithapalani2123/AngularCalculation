@@ -233,6 +233,7 @@ font-size: large;
 </body>
 ```
 ## OUTPUT:
-
+![output](./output1.png)
+![output](./output2.png)
 ## Result:
 Thus a Mathmetical Calculation website is created using Angular.
